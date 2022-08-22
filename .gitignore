@@ -1,0 +1,5 @@
+todo.txt
+*.log
+test/
+tmp/
+src/target
